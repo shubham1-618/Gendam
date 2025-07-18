@@ -72,13 +72,83 @@
 > **Warning:**
 > Never use these techniques for manipulation or harm.
 
-## References
-- Traditional Javanese texts
-- Modern magnetism studies
-- Master teachings (documented)
-- Research case studies
+## Modern Ethical Framework (Updated from Books 9-10)
+
+### **Consent-Based Attraction Protocol**
+Before any charisma practice:
+1. **Self-Consent Check:** "Do I have pure intention?"
+2. **Environmental Consent:** "Is this space appropriate?"
+3. **Target Consent:** "Am I respecting others' autonomy?"
+
+### **Recognition Training Integration**
+Use charisma training to recognize when others are using influence techniques on you:
+- Practice awareness of your own reactions
+- Notice when you feel unusually drawn to someone
+- Identify patterns that feel manipulative
+
+### **GLP Integration for Ethical Influence**
+From [Book 9: GLP Covert Hypnosis](../11_Extracted_Books_and_Texts/09_GLP_Covert_Hypnosis_Beginner/Summary.md):
+
+**Ethical Application:**
+- Use rapport building for genuine connection
+- Apply embedded commands only for positive influence
+- Practice confusion techniques to recognize manipulation
+
+**Modern Mantra for Ethical Charisma:**
+**Indonesian:**
+> "Dengan kesadaran penuh, aku menggunakan daya tarik untuk kebaikan bersama."
+
+**English:**
+> "With full awareness, I use attraction for mutual benefit."
+
+### **Digital Age Charisma**
+**Online Presence Protocol:**
+- Maintain authentic energy in digital spaces
+- Use protection mantras before online interactions
+- Practice recognition of digital manipulation attempts
+
+### **Updated Practice Protocol**
+
+#### **Morning Activation (Modern Version):**
+1. **Ethical Intention Setting** (1 min)
+2. **Protection Mantra** (7x): Ajian Kebal Gaib
+3. **Aura Charging Mantra** (11x): Traditional attraction mantra
+4. **Consent Awareness** (2 min): Review ethical guidelines
+
+#### **Social Interaction Checklist:**
+- [ ] Have I established genuine rapport?
+- [ ] Am I respecting others' boundaries?
+- [ ] Is my influence positive and beneficial?
+- [ ] Would I be comfortable if this were done to me?
+
+### **Advanced Ethical Techniques**
+
+#### **Group Influence with Consent:**
+1. **Pre-Group Preparation:** Set collective intention
+2. **Transparent Influence:** Make your presence known
+3. **Collective Benefit:** Focus on group harmony
+4. **Post-Group Reflection:** Review ethical impact
+
+#### **Business Charisma Ethics:**
+- Use attraction for mutual benefit
+- Ensure clients understand influence techniques
+- Maintain transparency in business relationships
+- Prioritize client wellbeing over personal gain
+
+### **Warning Signs to Stop**
+- Feeling tempted to manipulate
+- Others showing signs of discomfort
+- Using techniques for personal gain at others' expense
+- Ignoring consent or boundaries
+
+### **Modern References**
+- [Book 9: GLP Covert Hypnosis](../11_Extracted_Books_and_Texts/09_GLP_Covert_Hypnosis_Beginner/Summary.md) - Ethical influence techniques
+- [Book 10: Gendam: Yes or No](../11_Extracted_Books_and_Texts/10_Gendam_Yes_or_No/Summary.md) - Recognition and defense
+- Traditional Javanese texts (with modern ethical interpretation)
+- Contemporary studies on ethical influence
 
 ## See Also
-- [Magnetic Gaze](../04_practices/magnetic_gaze.md)
-- [Energy Anatomy](../02_energy_systems/energy_anatomy.md)
-- [Foundational Mantras](../05_mantras/foundational_mantras.md)
+- [Magnetic Gaze](../04_practices/magnetic_gaze.md) - With ethical guidelines
+- [Energy Anatomy](../02_energy_systems/energy_anatomy.md) - Understanding influence
+- [Foundational Mantras](../05_mantras/foundational_mantras.md) - With protection
+- [Protection & Defense Mantras](../05_mantras/protection_defense_mantras.md) - Essential for ethical practice
