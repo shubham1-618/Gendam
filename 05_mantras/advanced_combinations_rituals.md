@@ -84,10 +84,10 @@ Restrictions:
 **Week 3-4: Emotional Purification**
 ```
 Daily Practice:
-- Add forgiveness meditation (30 minutes)
+- Add forgiveness meditation to past self and current self(30 minutes)
 - Practice loving-kindness toward all beings
-- Release resentments and grudges
-- Cultivate compassion for enemies
+- Release resentments and grudges towards family and friends
+- Cultivate compassion for self and family.
 - Perform acts of anonymous service
 
 Focus Areas:
