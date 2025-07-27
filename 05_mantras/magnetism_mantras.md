@@ -69,3 +69,25 @@
 ## See Also
 - [Charisma & Attraction](../08_applications/charisma_attraction.md)
 - [Energy Anatomy](../02_energy_systems/energy_anatomy.md)
+
+### Quality Assurance Checklist
+
+- [ ] Authentic traditional source verified
+- [ ] Pronunciation guide included with IPA notation
+- [ ] Historical context and lineage documented
+- [ ] Complete practice instructions provided
+- [ ] Safety precautions and warnings included
+- [ ] Cross-references to related materials added
+- [ ] Personal practice tracking template included
+- [ ] Formatting consistent with collection standards
+
+### Pronunciation Guide
+
+- [ ] Authentic traditional source verified
+- [ ] Pronunciation guide included with IPA notation
+- [ ] Historical context and lineage documented
+- [ ] Complete practice instructions provided
+- [ ] Safety precautions and warnings included
+- [ ] Cross-references to related materials added
+- [ ] Personal practice tracking template included
+- [ ] Formatting consistent with collection standards

@@ -11,8 +11,8 @@ This document contains mantras and practices extracted from YouTube transcripts 
 ### 1. Raja Deva Gendam Mantra
 **Original Text:**
 ```
-होंग इलाह हैंग रोजो देव पांगा देक
-Hong Ilah Hang Rojo Dev Panga Dek
+
+Hyong Ilahang Rojyo Dekyo Panga Dekyu
 ```
 
 **Purpose:** Lower Dantian (energy center) activation
@@ -29,8 +29,8 @@ Hong Ilah Hang Rojo Dev Panga Dek
 ### 2. Upper Chakra Activation Mantra
 **Original Text:**
 ```
-सिरत दादी साक सिरक
-Sirat Dadi Sak Sirak
+
+Sirsat Dadi Sak Siraku
 ```
 
 **Purpose:** Upper two chakras activation
@@ -120,7 +120,7 @@ Niyati Gun So Kolor Tan Keel Bando Dunyo
 - No breath holding required (for personal use)
 - Can be used for stuck financial situations
 
-**Translation/Meaning:** "Provide me with money, wealth, and prosperity from all directions"
+**Translation/Meaning:** "Provide me with money, wealth, Abundance, and prosperity from all directions"
 
 ---
 
